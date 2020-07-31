@@ -1,8 +1,6 @@
-//
 //  main.cpp
 //  draft
 //  Copyright © 2020 awsl. All rights reserved.
-
 #include <iostream>
 #include <string>
 using namespace std;
